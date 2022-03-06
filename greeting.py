@@ -8,13 +8,13 @@
 なお、今回は print("〜")と書くように指定します。"""
 
 # 下の行にあいさつ文を出力するプログラムを書き込んで下さい
-print('Hello, World!!')
+print('こんばんは')
 # ↑↑↑ ↑↑↑ ↑↑↑ ↑↑↑ ↑↑↑
 """プログラムを書き終わりましたら、下記の手順に従って
 GitHubにpushしましょう。
 ① git add .
 ② git commit -m"first commit"
-③ git commit -M exercise
+③ git commit -M exercise ←こちらは、branchを作成するときのみです!!
 ④ git push origin exercise
 最初にpushできた方は特に問題なくpushできているはずです。
 gitチームがコード確認後、mainにmergeしますので、お待ちください。
