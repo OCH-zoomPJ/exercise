@@ -14,7 +14,7 @@ print('こんにちは！')
 GitHubにpushしましょう。
 ① git add .
 ② git commit -m"first commit"
-③ git commit -M exercise
+③ git commit -M exercise ←こちらは、branchを作成するときのみです!!
 ④ git push origin exercise
 最初にpushできた方は特に問題なくpushできているはずです。
 gitチームがコード確認後、mainにmergeしますので、お待ちください。
